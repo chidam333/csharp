@@ -1,0 +1,15 @@
+C:\Users\chida\OneDrive\Documents\code-win\presidio-tasks\csharp\ConsoleApp9\bin\Debug\net9.0\ConsoleApp9.exe
+C:\Users\chida\OneDrive\Documents\code-win\presidio-tasks\csharp\ConsoleApp9\bin\Debug\net9.0\ConsoleApp9.deps.json
+C:\Users\chida\OneDrive\Documents\code-win\presidio-tasks\csharp\ConsoleApp9\bin\Debug\net9.0\ConsoleApp9.runtimeconfig.json
+C:\Users\chida\OneDrive\Documents\code-win\presidio-tasks\csharp\ConsoleApp9\bin\Debug\net9.0\ConsoleApp9.dll
+C:\Users\chida\OneDrive\Documents\code-win\presidio-tasks\csharp\ConsoleApp9\bin\Debug\net9.0\ConsoleApp9.pdb
+C:\Users\chida\OneDrive\Documents\code-win\presidio-tasks\csharp\ConsoleApp9\obj\Debug\net9.0\ConsoleApp9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chida\OneDrive\Documents\code-win\presidio-tasks\csharp\ConsoleApp9\obj\Debug\net9.0\ConsoleApp9.AssemblyInfoInputs.cache
+C:\Users\chida\OneDrive\Documents\code-win\presidio-tasks\csharp\ConsoleApp9\obj\Debug\net9.0\ConsoleApp9.AssemblyInfo.cs
+C:\Users\chida\OneDrive\Documents\code-win\presidio-tasks\csharp\ConsoleApp9\obj\Debug\net9.0\ConsoleApp9.csproj.CoreCompileInputs.cache
+C:\Users\chida\OneDrive\Documents\code-win\presidio-tasks\csharp\ConsoleApp9\obj\Debug\net9.0\ConsoleApp9.sourcelink.json
+C:\Users\chida\OneDrive\Documents\code-win\presidio-tasks\csharp\ConsoleApp9\obj\Debug\net9.0\ConsoleApp9.dll
+C:\Users\chida\OneDrive\Documents\code-win\presidio-tasks\csharp\ConsoleApp9\obj\Debug\net9.0\refint\ConsoleApp9.dll
+C:\Users\chida\OneDrive\Documents\code-win\presidio-tasks\csharp\ConsoleApp9\obj\Debug\net9.0\ConsoleApp9.pdb
+C:\Users\chida\OneDrive\Documents\code-win\presidio-tasks\csharp\ConsoleApp9\obj\Debug\net9.0\ConsoleApp9.genruntimeconfig.cache
+C:\Users\chida\OneDrive\Documents\code-win\presidio-tasks\csharp\ConsoleApp9\obj\Debug\net9.0\ref\ConsoleApp9.dll
